@@ -33,7 +33,7 @@ You’ll need an OpenAI API key to run the app. Get yours at https://openai.com/
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/resume-screener-gpt.git
+git clone https://github.com/amgadellaboudy/resume_screener.git
 cd resume-screener-gpt
 
 # Set up a virtual environment
